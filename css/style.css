@@ -1,0 +1,31 @@
+html {
+  background-color: #cff;
+}
+body {
+    background-color: bisque;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+ul {
+    text-align: left;
+}
+li {
+    color: green;
+    text-decoration-line: underline;
+    font-size: 1.5em;
+}
+p {
+    font-weight: bold;
+    text-align: justify;
+    margin: 10px 30px;
+}
+
+
+button {
+  background-color: green;
+  font-size: 20px;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 25%;
+}
